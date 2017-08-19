@@ -4,6 +4,7 @@ Updated Cryptocurrencies
 First Web app build with reactjs! Loving it so far and still learning.
 
 ## Changelog
+* Added Multi-currency support
 * Added "Add/Remmove Optional Data"
 * Initial Feature
 
