@@ -5,6 +5,7 @@ First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
 #### 1.0.1
+* Add icons and Lazy load it
 * Add Reloading Timer
 #### 1.0.0
 * Add Table sorting
