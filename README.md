@@ -4,7 +4,7 @@ Updated Cryptocurrencies
 First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
-#### 1.0.1
+#### 1.1.0
 * Add Print CSS
 * Add icons and Lazy load it
 * Add Reloading Timer
