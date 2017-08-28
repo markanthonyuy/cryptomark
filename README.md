@@ -10,8 +10,8 @@ First Web app build with reactjs! Loving it so far and still learning.
 * Add Reloading Timer
 #### 1.0.0
 * Add Table sorting
-* Added Multi-currency support
-* Added "Add/Remmove Optional Data"
+* Add Multi-currency support
+* Add "Add/Remmove Optional Data"
 * Initial Feature
 
 Visit [cryptomark](http://markanthonyuy.com/cryptomark/)
