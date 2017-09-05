@@ -5,7 +5,7 @@ First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
 #### 1.1.1
-* Fix timer countdown which cause rerender every second
+* Fix timer countdown which cause re-render every second
 #### 1.1.0
 * Add Print CSS
 * Add icons and Lazy load it
