@@ -4,6 +4,8 @@ Updated Cryptocurrencies
 First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
+#### 1.2.1
+* Fix unique key bug
 #### 1.2.0
 * Fix key not generating unique value for optional data
 * Fix leading zero e.g. 10.00
