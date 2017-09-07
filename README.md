@@ -4,6 +4,10 @@ Updated Cryptocurrencies
 First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
+#### 1.2.0
+* Fix key not generating unique value for optional data
+* Fix leading zero e.g. 10.00
+* Add cryptocurrency symbol for available supply nd total suply
 #### 1.1.1
 * Fix timer countdown which cause re-render every second
 #### 1.1.0
