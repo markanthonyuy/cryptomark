@@ -4,6 +4,8 @@ Updated Cryptocurrencies
 First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
+#### 1.3.1
+* Remove logo before the name
 #### 1.3.0
 * Add responsive
 #### 1.2.1
