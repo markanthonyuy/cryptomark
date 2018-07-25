@@ -4,6 +4,12 @@ Updated Cryptocurrencies
 First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
+#### 2.0.0
+* Use coinmarketcap version 2 API
+* Add prev and next page
+* Fix date/time format
+* Add more currency
+* Add back the cryptocurrency logo
 #### 1.3.1
 * Remove logo before the name
 #### 1.3.0
