@@ -5,6 +5,10 @@ First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
 #### 2.1.0
+* Fix Responsive
+* Add meta description
+* Add Service Worker
+#### 2.1.0
 * Add page count
 * Add Back to Top
 * Fix null values
