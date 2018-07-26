@@ -4,6 +4,10 @@ Updated Cryptocurrencies
 First Web app build with reactjs! Loving it so far and still learning.
 
 ### Changelog
+#### 2.1.0
+* Add page count
+* Add Back to Top
+* Fix null values
 #### 2.0.0
 * Use coinmarketcap version 2 API
 * Add prev and next page
