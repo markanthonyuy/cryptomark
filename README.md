@@ -1,7 +1,10 @@
 # Cryptomark
 Updated Cryptocurrencies 
 
-First Web app build with reactjs! Loving it so far and still learning.
+## First Web app build with reactjs! Loving it so far and still learning.
+
+# Depricated!
+Please visit [this repo instead](https://github.com/markanthonyuy/cryptomark.now.sh)
 
 ### Changelog
 #### 2.1.2
